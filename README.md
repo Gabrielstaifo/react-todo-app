@@ -37,11 +37,13 @@ npm start
 ---
 
 ## 🗂 Project Structure
+```
 src/
 ├── TodoList.jsx # Main component, manages state and UI
 ├── TodoItem.jsx # Represents a single task
 ├── App.css # All styles for the app
 └── index.js # Entry point
+```
 ---
 
 ## ⚙️ Core Functions
