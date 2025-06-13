@@ -56,5 +56,5 @@ src/
 
 ---
 ## 📸 Screenshot
-![Screenshot of the To-Do App](images/screenshot.png)
+![Screenshot of the To-Do App](Images/Screenshot.png)
 
